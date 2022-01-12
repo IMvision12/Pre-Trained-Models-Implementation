@@ -7,7 +7,7 @@ This Repo is about implementation of Pre-Trained Models
 4. Xception
 
 ### VGG16(D) and VGG19(E) Architecture : 
-![Demo show](https://pytorch.org/assets/images/vgg.png =100x100)
+![](https://pytorch.org/assets/images/vgg.png =100x100)
 
 ### ResNet50 Architecture : 
 #### “bottleneck” building block : ![plot](https://i.stack.imgur.com/kbiIG.png)
