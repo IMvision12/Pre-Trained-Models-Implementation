@@ -13,3 +13,7 @@ This Repo is about implementation of Pre-Trained Models
 ![Demo show](https://iq.opengenus.org/content/images/2020/03/Screenshot-from-2020-03-20-15-49-54.png)
 #### Bottleneck Building Block : 
 <img src="https://i.stack.imgur.com/kbiIG.png" width="500" height="300" />
+
+### InceptionV3 Architecture :
+![Demo show](https://cloud.google.com/tpu/docs/images/inceptionv3onc--oview.png)
+
