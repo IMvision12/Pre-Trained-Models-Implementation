@@ -6,5 +6,5 @@ This Repo is about implementation of Pre-Trained Models
 3. InceptionV3
 4. Xception
 
-### VGG16 Architecture : 
-![Demo show](https://neurohive.io/wp-content/uploads/2018/11/vgg16-1-e1542731207177.png)
+### VGG16 and VGG19 Architecture : 
+![Demo show](https://pytorch.org/assets/images/vgg.png)
