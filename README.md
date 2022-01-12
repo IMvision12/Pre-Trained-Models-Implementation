@@ -10,5 +10,5 @@ This Repo is about implementation of Pre-Trained Models
 ![Demo show](https://pytorch.org/assets/images/vgg.png)
 
 ### ResNet50 Architecture : 
-![plot](https://github.com/IMvision12/Pre-Trained-Models-Implementation/blob/main/bottle.PNG)
+#### “bottleneck” building block : ![plot](https://i.stack.imgur.com/kbiIG.png)
 ![Demo show](https://iq.opengenus.org/content/images/2020/03/Screenshot-from-2020-03-20-15-49-54.png)
