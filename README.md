@@ -1,6 +1,6 @@
 # Pre-Trained Models Implementation
 
-This Repo is about implementation of Pre-Trained Models
+This Repo is about implementation of Pre-Trained Models From scratch
 1. VGG16 and VGG19
 2. ResNet50
 3. InceptionV3
