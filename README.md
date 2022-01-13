@@ -10,9 +10,7 @@ This Repo is about implementation of Pre-Trained Models From scratch
 <img src="https://pytorch.org/assets/images/vgg.png" width="500" height="500" />
 
 ### ResNet50 Architecture : 
-![Demo show](https://iq.opengenus.org/content/images/2020/03/Screenshot-from-2020-03-20-15-49-54.png)
-#### Bottleneck Building Block : 
-<img src="https://i.stack.imgur.com/kbiIG.png" width="500" height="300" />
+![Demo show](https://github.com/IMvision12/Pre-Trained-Models-Implementation/blob/main/resnet50.PNG)
 
 ### InceptionV3 Architecture :
 ![Demo show](https://miro.medium.com/max/960/1*gqKM5V-uo2sMFFPDS84yJw.png)
