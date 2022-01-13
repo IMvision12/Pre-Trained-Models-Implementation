@@ -17,3 +17,6 @@ This Repo is about implementation of Pre-Trained Models
 ### InceptionV3 Architecture :
 ![Demo show](https://miro.medium.com/max/960/1*gqKM5V-uo2sMFFPDS84yJw.png)
 
+### Xception Architecture :
+![Demo show](https://github.com/IMvision12/Pre-Trained-Models-Implementation/blob/main/xception.PNG)
+
