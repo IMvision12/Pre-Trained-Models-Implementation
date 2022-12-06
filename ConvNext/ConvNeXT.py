@@ -49,3 +49,27 @@ class Block(tf.keras.Model):
             x = self.gamma * x
 
         return inputs + self.drop_path(x)
+
+
+
+def DownSample(dims):
+    downsample_layers = []
+    stem = keras.Sequential(
+        [
+            layers.Conv2D(dims[0], kernel_size=4, strides=4),
+            layers.LayerNormalization(epsilon=1e-6),
+        ],
+        name="stem",
+    )
+    downsample_layers.append(stem)
+    for i in range(3):
+        downsample_layer = keras.Sequential(
+            [
+                layers.LayerNormalization(epsilon=1e-6),
+                layers.Conv2D(dims[i + 1], kernel_size=2, strides=2),
+            ],
+            name=f"downsampling_block_{i}",
+        )
+        downsample_layers.append(downsample_layer)
+
+    return downsample_layers
